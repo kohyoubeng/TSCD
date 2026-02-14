@@ -44,8 +44,8 @@ Required packages:
 - Set working directory
 1) To perform robust linear regression
 
-# Data are obtained from Bloomberg (licensed access required).
-# Due to license restrictions, raw data are not provided.
+### Data are obtained from Bloomberg (licensed access required).
+### Due to license restrictions, raw data are not provided.
 
 
 FOLDER 3_In-sample:
@@ -89,8 +89,8 @@ Required packages:
 3) To perform parameter estimation via constrained optimisation
 4) To plot conditional model functions against empirical Gamma-kernel estimates for comparison
 
-# Data are obtained from Bloomberg (licensed access required).
-# Due to license restrictions, raw data are not provided.
+### Data are obtained from Bloomberg (licensed access required).
+### Due to license restrictions, raw data are not provided.
 
 
 FOLDER 4_Out-sample:
@@ -134,5 +134,5 @@ Required packages:
 4) To evaluate and compare forecast performance of multiple models using the MCS procedure
 5) To generate the corresponding plots
 
-# Data are obtained from Bloomberg (licensed access required).
-# Due to license restrictions, raw data are not provided.
+### Data are obtained from Bloomberg (licensed access required).
+### Due to license restrictions, raw data are not provided.
